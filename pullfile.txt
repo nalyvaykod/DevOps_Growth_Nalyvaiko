@@ -1,0 +1,3 @@
+This file needs only for test git pull command!
+
+Have a nice day! =)
